@@ -33,7 +33,7 @@ The **Career Quiz CLI Tool** is designed as a lightweight, zero-dependency Pytho
 
 ---
 
-## Source Code (`career_quiz.py`)
+## Source Code (`careerquiz.py`)
 
 ```python
 def runcareerquiz():
@@ -167,7 +167,7 @@ if __name__ == "__main__":
  Python 3.x installed on your machine.
 
 ### Execution Steps
-1. Save the code into a file named `career_quiz.py`.
+1. Save the code into a file named `careerquiz.py`.
 2. Open your terminal or command prompt in that directory.
 3. Run the command:
 
