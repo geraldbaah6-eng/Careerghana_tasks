@@ -1,6 +1,6 @@
 # Career Quiz CLI 
 
-An interactive command-line interface (CLI) application built in Python that guides users through a series of 10 career preference questions to determine their ideal technology career path between **Software Engineering**, **Data Science**, or **Cybersecurity**.
+An interactive command-line interface (CLI) application built in Python that guides users through a series of 10 career preference questions to determine their ideal technology career path between **Software Engineering**, **Data Science**, and **Cybersecurity**.
 
 ---
 
