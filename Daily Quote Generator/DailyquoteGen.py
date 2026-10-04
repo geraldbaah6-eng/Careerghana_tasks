@@ -29,13 +29,13 @@ def sendemailtip(tip):
     smtp_server = "smtp.gmail.com"
     smtp_port = 587  # TLS port
 
-    sender_email = "geraldbaah11@gmail.com"
+    sender_email = "The sender's email"
     receiver_emails = [
-        "geraldbaah3@gmail.com",
-        "giroud2331@gmail.com",
-        "geraldbaah6@gmail.com"
+        "First email",
+        "Second email",
+        "Third email here"
     ]
-    app_password = "slap mmzm vgat ychw" 
+    app_password = "app paaword from google or the email provider" 
 
     #Creating an email message object 
     message = MIMEText(f"Hello!\n\nHere is your daily career tip:\n\n\"{tip}\"\n\nHave a productive day!")
