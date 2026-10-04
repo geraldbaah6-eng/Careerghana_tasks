@@ -35,7 +35,7 @@ def sendemailtip(tip):
         "Second email",
         "Third email here"
     ]
-    app_password = "app paaword from google or the email provider" 
+    app_password = "app password from google or the email provider" 
 
     #Creating an email message object 
     message = MIMEText(f"Hello!\n\nHere is your daily career tip:\n\n\"{tip}\"\n\nHave a productive day!")
