@@ -35,7 +35,7 @@ def sendemailtip(tip):
         "giroud2331@gmail.com",
         "geraldbaah6@gmail.com"
     ]
-    app_password = "ihnr mkjm xjyb pzjm" 
+    app_password = "slap mmzm vgat ychw" 
 
     #Creating an email message object 
     message = MIMEText(f"Hello!\n\nHere is your daily career tip:\n\n\"{tip}\"\n\nHave a productive day!")
